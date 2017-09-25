@@ -1,0 +1,8 @@
+﻿  Concordance.cpp
+  MainForm.cpp
+c:\users\junsu\desktop\group programs\graded program 5\prog5\prog5\MainForm.h(360): warning C4101: 'msg': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Concordance.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Prog5.vcxproj -> C:\Users\junsu\Desktop\Group Programs\Graded Program 5\Prog5\Prog5\Debug\Prog5.exe
+  Prog5.vcxproj -> C:\Users\junsu\Desktop\Group Programs\Graded Program 5\Prog5\Prog5\Debug\Prog5.pdb (Partial PDB)
